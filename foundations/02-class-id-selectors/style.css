@@ -1,0 +1,19 @@
+#one_ID{
+  color: blue;
+  font-size: 36px;
+}
+
+.odd{
+  background-color: pink;
+  font-family: "Verdana", "DejaVu Sans", "sans-serif";
+}
+
+#another_ID{
+  background-color: #66ff99;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.cooler{
+  font-size: 24px;
+}
